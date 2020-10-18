@@ -121,7 +121,7 @@ export default function CreateOrphanage() {
               />
             </div>
             <div className="input-block">
-              <label htmlFor="name">Número de Whatsapp</label>
+              <label htmlFor="name">Número de Whatsapp (Ex: 5579996494341)</label>
               <input
                 id="whatsapp"
                 value={whatsapp}
