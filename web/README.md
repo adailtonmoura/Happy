@@ -20,7 +20,7 @@
 
 ### Getting started
 
-1. Move yourself to the appropriate directory: `cd Happy/web`<br />
+1. Move yourself to the appropriate directory: `cd /web`<br />
 2. Run `yarn install` to install dependencies<br />
 3. Visit [Mapbox](https://account.mapbox.com/) and generate your API Key <br/>
 4. Create an .env file and an environment variable REACT_APP_ MAPBOX_TOKEN = your API key
