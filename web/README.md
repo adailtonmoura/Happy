@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://img.shields.io/badge/-Under%20Construction-29b6d1?style=flat-square"><h1>
+<h1 align="center"><img src="https://img.shields.io/badge/-WEB-29b6d1?style=flat-square"><h1>
 
 <h1 align="center">
     Happy 
@@ -20,13 +20,11 @@
 
 ### Getting started
 
-1. Clone this repository using `git clone https://github.com/adailtonmoura/Happy.git`
-2. Move yourself to the appropriate directory: `cd Happy`<br />
-3. Run `yarn` to install dependencies<br />
-4. Visit [Mapbox](https://account.mapbox.com/) and generate your API Key <br/>
-5. Create an .env file and an environment variable REACT_APP_ MAPBOX_TOKEN = your API key
-
-6. Run `yarn start`.
+1. Move yourself to the appropriate directory: `cd Happy/web`<br />
+2. Run `yarn install` to install dependencies<br />
+3. Visit [Mapbox](https://account.mapbox.com/) and generate your API Key <br/>
+4. Create an .env file and an environment variable REACT_APP_ MAPBOX_TOKEN = your API key
+5. Run `yarn start`.
 <hr>
 
 ### License 
