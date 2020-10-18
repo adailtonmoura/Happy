@@ -20,6 +20,7 @@
 
 ### Getting started
 
+1. Move yourself to the appropriate directory: cd /backend
 1. Run `yarn install` to install dependencies<br />
 2. Run `yarn typeorm migration:run` to migrations generate<br />
 3. Change the url on View/images_view.ts
